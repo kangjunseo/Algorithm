@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include <queue>
 
 int G[1001][1001];
