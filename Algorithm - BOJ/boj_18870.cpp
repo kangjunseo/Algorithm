@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <cstdlib>
 using namespace std;
 
 bool comp(pair<double,int> a, pair<double,int> b){
@@ -14,11 +15,11 @@ bool comp2(pair<double,int> a, pair<double,int> b){
 int main() {
   int N;
   cin>>N;
-  vector <pair<double,int>> v;
+  vector <pair<double,int>> v;    //initiate vector with pair
   for(int i=0;i<N;i++){
     double temp;
     cin>>temp;
-    v.push_back(make_pair(temp,i));
+    v.push_back(make_pair(temp,i));  //make pair and push
   }
     
   sort(v.begin(),v.end(),comp);
