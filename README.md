@@ -1,4 +1,4 @@
-# `Algorithm`
+# Algorithm
 
 This repository is for collecting `c++`(or `python`) codes when I used to solved boj (algorithm solving site) problems.
 
