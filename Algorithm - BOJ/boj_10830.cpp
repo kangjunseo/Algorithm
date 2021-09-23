@@ -8,7 +8,7 @@ int A[5][5];  //원본 A 행렬
 int AB[5][5]; //결과 행렬
 int Tmp[5][5];  //계산 중 임시행렬
 stack <int> s; 
-void DNQ(int B){    //B를 divide & conquer 방식으로 미리 분할해서 stack에 저장
+void DNQ(long long B){    //B를 divide & conquer 방식으로 미리 분할해서 stack에 저장
   if(B==1){
     return;
   }else if(B%2==0){
