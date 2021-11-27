@@ -2,7 +2,9 @@
 
 This repository is for collecting `c++`(or `python`) codes when I used to solved algorithm problems.
 
-[BOJ SITE](https://www.acmicpc.net/)
+## Algorithm solving sites
+
+[BOJ](https://www.acmicpc.net/)
  
 [Programmers](https://programmers.co.kr/learn/challenges/)
 
