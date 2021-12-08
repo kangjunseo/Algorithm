@@ -14,7 +14,7 @@ This repository is for collecting `c++`(or `python`) codes when I used to solved
 
 |RANK|SCORE|SOLVED|
 |:---:|:---:|:---:|
-|30607|1123|25|
+|28845|1132|27|
 
 Solving Lv1, Lv2 problems.  
 
