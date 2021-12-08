@@ -2,6 +2,6 @@
 
 |RANK|SCORE|SOLVED|
 |:---:|:---:|:---:|
-|30607|1123|25|
+|28845|1132|27|
 
 Will be updated periodically.  
