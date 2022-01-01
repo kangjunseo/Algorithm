@@ -9,4 +9,4 @@
 게임개발자인 "죠르디"는 크레인 인형뽑기 기계를 모바일 게임으로 만들려고 합니다.
 "죠르디"는 게임의 재미를 높이기 위해 화면 구성과 규칙을 다음과 같이 게임 로직에 반영하려고 합니다.
 
-![image-20220101120406708](/Users/kangjunseo/Library/Application Support/typora-user-images/image-20220101120406708.png)
+![image](https://user-images.githubusercontent.com/88201041/147843122-111efefe-2d18-44c6-9f88-87174045ff00.png)
