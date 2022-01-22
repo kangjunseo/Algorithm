@@ -1,12 +1,14 @@
 # Algorithm
 
-This repository is for collecting `c++`(or `python`) codes when I used to solved algorithm problems.
+This repository is for collecting `c++`or `python` codes when I used to solved algorithm problems.
 
 ## Algorithm solving sites
 
 ### [BOJ](https://www.acmicpc.net/)  
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
+
+**solving challenging algorithm problems**
 
 ---
 
@@ -16,7 +18,9 @@ This repository is for collecting `c++`(or `python`) codes when I used to solved
 |:---:|:---:|:---:|
 |18821|1196|48|
 
-Solving Lv1, Lv2 problems.  
+Solving Lv2 problems.  
+
+**solving realistic algorithm problems**
 
 ---
 
