@@ -14,9 +14,9 @@ This repository is for collecting `c++`or `python` codes when I used to solved a
 
 ### [Programmers](https://programmers.co.kr/learn/challenges/)
 
-|RANK|SCORE|SOLVED|
-|:---:|:---:|:---:|
-|18821|1196|48|
+| RANK  | SCORE | SOLVED |
+| :---- | ----- | ------ |
+| 14121 | 1241  | 63     |
 
 Solving Lv2 problems.  
 
