@@ -16,7 +16,7 @@ This repository is for collecting `c++`or `python` codes when I used to solved a
 
 | RANK  | SCORE | SOLVED |
 | :---- | ----- | ------ |
-| 14121 | 1241  | 63     |
+| 9175 | 1305  | 75     |
 
 Solving Lv2 problems.  
 
